@@ -4,5 +4,6 @@ Green
 Yellow
 Earth
 Heaven
+Orange
 
 These are the places where Licorns can be
